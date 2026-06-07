@@ -30,5 +30,3 @@ More under the **[@zb-ss](https://github.com/zb-ss)** organization.
 ## Support
 
 If something here saves you time, you can [sponsor my work](https://github.com/sponsors/zashboy) 💛
-
-<!-- profile -->
