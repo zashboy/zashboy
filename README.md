@@ -1,20 +1,29 @@
 # Hi, I'm Zoltan 👋
 
 Web developer with a soft spot for PHP — building developer tools, automation
-workflows, and web apps. I try to learn something new every day.
+workflows, and web apps. These days most of my open-source time goes into
+**Servonaut** and tooling for AI coding agents.
 
 🌐 [zashboy.com](https://www.zashboy.com)
 
-## What I'm building
+## Currently building: Servonaut
 
-- **[servonaut](https://github.com/zb-ss/servonaut)** — manage AWS, Hetzner, OVH
-  and custom servers from one TUI, with a built-in AI assistant and MCP server.
-- **[opencode-workflows](https://github.com/zb-ss/opencode-workflows)** —
-  development workflows for OpenCode.
-- **Claude Code plugins** —
-  [git](https://github.com/zb-ss/claude-plugin-git),
-  [translate](https://github.com/zb-ss/claude-plugin-translate) and
-  [workflow](https://github.com/zb-ss/claude-plugin-workflow) tooling.
+<a href="https://github.com/zb-ss/servonaut"><img src="https://raw.githubusercontent.com/zb-ss/servonaut/master/docs/screenshots/demo.gif" alt="Servonaut terminal UI demo" width="720"></a>
+
+Manage AWS, Hetzner, OVH and custom servers from one terminal, with a built-in
+AI assistant and an MCP server so your coding agent can work on your servers too.
+`pipx install servonaut` · [servonaut.dev](https://servonaut.dev)
+
+## Open source
+
+| Project | What it does | |
+|---|---|---|
+| [servonaut](https://github.com/zb-ss/servonaut) | Server management TUI with an AI assistant and MCP server | ![stars](https://img.shields.io/github/stars/zb-ss/servonaut?style=flat-square&label=%E2%98%85) |
+| [opencode-workflows](https://github.com/zb-ss/opencode-workflows) | Plan, implement and review workflows for OpenCode | ![stars](https://img.shields.io/github/stars/zb-ss/opencode-workflows?style=flat-square&label=%E2%98%85) |
+| [claude-plugin-workflow](https://github.com/zb-ss/claude-plugin-workflow) | Claude Code plugin: a team of agents on tiered models plans, builds and reviews changes | ![stars](https://img.shields.io/github/stars/zb-ss/claude-plugin-workflow?style=flat-square&label=%E2%98%85) |
+| [agent-bus](https://github.com/zb-ss/agent-group-mcp) | Local MCP message bus so coding agents can talk to each other | ![stars](https://img.shields.io/github/stars/zb-ss/agent-group-mcp?style=flat-square&label=%E2%98%85) |
+| [textual-pilot-mcp](https://github.com/zb-ss/textual-pilot-mcp) | Playwright-style automation and SVG screenshots for Textual TUIs | ![stars](https://img.shields.io/github/stars/zb-ss/textual-pilot-mcp?style=flat-square&label=%E2%98%85) |
+| [hftool](https://github.com/zb-ss/hftool) | CLI for Hugging Face models, tuned for AMD ROCm | ![stars](https://img.shields.io/github/stars/zb-ss/hftool?style=flat-square&label=%E2%98%85) |
 
 More under the **[@zb-ss](https://github.com/zb-ss)** organization.
 
